@@ -2,7 +2,7 @@
 
 Tecnologías utilizadas para el ejemplo:
 
-• Base de datos: MonogoDB
+• Base de datos: MongoDB
 
 • Backend: Nodejs + Express
 
